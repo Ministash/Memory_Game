@@ -1,0 +1,18 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 20px;
+    padding: 10px;
+  }
+
+  
+  .grid-container > img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid rgba(0, 0, 0, 0.658);
+    padding: 20px 20px 20px 20px;
+    border-radius: 50%;
+    box-shadow: 0 0 20px 0;
+  }
+
+
