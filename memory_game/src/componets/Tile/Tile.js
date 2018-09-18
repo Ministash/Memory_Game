@@ -92,12 +92,16 @@ class Tile extends React.Component {
                if(this.state.highscore < this.state.score){
                    this.state.highscore = this.state.score;
                    this.state.score = 0;
-                   images[i].click = false;
+                 for(let i = 0; i < images.length; i++){
+                     images[i].click = false;
+                 }
                }
                
                else{
                    this.state.score = 0;
-                   images[i].click = false;
+                   for(let i = 0; i < images.length; i++){
+                    images[i].click = false;
+                }
                }
             }
         }
