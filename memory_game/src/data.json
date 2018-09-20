@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "image": "./icons/1.png",
+        "click": false
+    },
+
+    {
+        "id": 2,
+        "image":  "./icons/2.png",
+        "click": false
+    },
+    {
+        "id": 3,
+        "image":  "./icons/3.png",
+        "click": false
+    },
+    {
+
+        "id": 4,
+        "image":  "./icons/4.png",
+        "click": false
+    },
+    {
+        "id": 5,
+        "image":  "./icons/5.png",
+        "click": false
+    },
+    {
+        "id": 6,
+        "image":  "./icons/6.png",
+        "click": false
+    },
+    {
+        "id": 7,
+        "image":  "./icons/7.png",
+        "click": false
+    },
+    {
+        "id": 8,
+        "image":  "./icons/8.png",
+        "click": false
+    },
+    {
+        "id": 9,
+        "image":  "./icons/9.png",
+        "click": false
+    },
+    {
+        "id": 10,
+        "image":  "./icons/10.png",
+        "click": false
+    },
+    {
+        "id": 11,
+        "image":  "./icons/11.png",
+        "click": false
+    },
+    {
+        "id": 12,
+        "image":  "./icons/12.png",
+        "click": false
+    }
+
+]
+

@@ -1,10 +1,11 @@
 import React from 'react';
 import "./ContainerStyle.css";
-import Tile from '../Tile/Tile'
 
-let Container = () => (
+let Container = (props) => (
     <div className="container">
-        <Tile/>
+        <div className="grid-container">
+            {props.children}
+        </div>
     </div>
 
 )
