@@ -1,3 +1,10 @@
 .nav-wrapper{
     background: rgb(122, 12, 12);
 }
+
+.x {
+    -webkit-user-select: none;
+    -moz-user-select: none;     
+    -ms-user-select: none;      
+    user-select: none; 
+  }

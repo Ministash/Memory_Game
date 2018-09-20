@@ -3,7 +3,7 @@ import "./ContainerStyle.css";
 import Tile from '../Tile/Tile'
 
 let Container = () => (
-    <div>
+    <div className="container">
         <Tile/>
     </div>
 

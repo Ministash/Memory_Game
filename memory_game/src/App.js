@@ -7,9 +7,7 @@ import Tile from './componets/Tile'
   const App = () => 
   <div>
   <Navbar />
-  <Container>
-  <Tile />
-  </Container>
+  <Container/>
 
   </div>;
 
